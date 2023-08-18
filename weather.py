@@ -15,8 +15,6 @@ def weather():
 
         if choice == 1:
             view_weather.viewWeather()
-        elif choice == 3:
-            crop_suggestion.cropSuggestion()
         elif choice == 2:
             view_forecast.viewForecast()
         else:
