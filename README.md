@@ -1,6 +1,6 @@
 # Weather-CLI-App
 
-### API-assignment
+###### API-assignment
 
 Below are the instructions of the API assignment:
 
