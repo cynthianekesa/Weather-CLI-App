@@ -23,7 +23,7 @@ This app is built so that residents of different countries can know the weather 
 * The user needs to clone the GitHub repo by putting **git clone https://github.com/cynthianekesa/Weather-CLI-App.git**
 * Enter into the app using **cd Weather-CLI-App**
 * Use **1-weather.py** to run the code
-* Use the USSD Code **222**
+* Use the USSD Code ***222#**
 
 ## Install Dependencies
 * Install **pip3 install requests** so that the Python code can run
@@ -33,6 +33,7 @@ This app is built so that residents of different countries can know the weather 
 `python3 1-weather.py`
 
 ## Demo Video of the App
+**https://www.loom.com/share/be3856195c664f84879b57772cc7abcb?sid=b3b47068-e164-43de-b8b8-c9994636a82e**
 
 ## Contributing
 Make a pull request before any changes.
