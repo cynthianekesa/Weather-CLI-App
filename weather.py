@@ -5,12 +5,11 @@ import view_forecast
 def weather():
 
     while True:
-        print("Welcome to Weather & Climate Section")
+        print("Welcome to the Weather CLI App!")
         print("*******************************************")
         choice = int(input('''
             Enter 1 to view Live weather data
             Enter 2 to view Weather Forecast
-            Enter 3 for crop suggestion
             Enter 0 to quit()
         '''))
 
